@@ -19,11 +19,19 @@ Prazo:
 Finalizado no GitHub até 30/12/2020.
 
 Detecção de anomalias em Séries Temporais de Emissões de Gases de Efeito Estufa por equipamentos de uma plataforma de petróleo
+
 Planejamento por etapas:
+
 Carregar, preparar e analisar dados
+
 Pré-Processar os dados
+
 Controle estatístico do processo (CEP) para detectar anomalias*
+
 CUSUM
+
 Modelos Autorregressivos
+
 Avaliação dos modelos
+
 Conclusão Final
