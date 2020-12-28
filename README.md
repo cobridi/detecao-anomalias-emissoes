@@ -1,5 +1,5 @@
 Introdução
-Este Github faz parte do trabalho final do curso BI MASTER Turma 2019.03 do aluno Claudio Bridi, orientado pela Prof. Evelyn.
+Este Github faz parte do trabalho final do curso BI MASTER Turma 2019.03 do aluno Claudio Bridi, orientado pelo Prof. Leonardo Mendonza.
 
 Objetivo:
 Criar um algoritmo para detectar anomalias em série temporal de emissões mensais de CO2-equivalente das fontes de uma UEP (Unidade Estacionária de Produção de Óleo e Gás), no período de 2015 a 2019.
