@@ -23,6 +23,7 @@ Planejamento por etapas:
 Carregar, preparar e analisar dados
 Pré-Processar os dados
 Controle estatístico do processo (CEP) para detectar anomalias*
+CUSUM
 Modelos Autorregressivos
 Avaliação dos modelos
 Conclusão Final
